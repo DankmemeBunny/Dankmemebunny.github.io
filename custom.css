@@ -1,0 +1,4 @@
+  ::placeholder, body, button, input, select, textarea {
+    font-family: "IBM Plex Sans";
+    text-rendering: optimizeLegibility;
+}
