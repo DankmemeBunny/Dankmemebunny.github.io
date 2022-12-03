@@ -1,4 +1,4 @@
   ::placeholder, body, button, input, select, textarea {
-    font-family: "INPUT FONT";
+    font-family: var(--font, "gg sans");
     text-rendering: optimizeLegibility;
 }
